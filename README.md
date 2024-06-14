@@ -60,6 +60,8 @@ For any inquiries or support, please contact us [Viswanath V](mailto:viswanath10
 - [Viswanath V](https://github.com/Viswa9494)
 - Rasheed Ahamed M
 
+## Screenshots
+
 <table>
   <tr>
     <td>Home Screen page </td>
