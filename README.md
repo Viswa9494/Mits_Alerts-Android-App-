@@ -60,8 +60,31 @@ For any inquiries or support, please contact us [Viswanath V](mailto:viswanath10
 - [Viswanath V](https://github.com/Viswa9494)
 - Rasheed Ahamed M
 
+<table>
+  <tr>
+    <td>Home Screen page </td>
+     <td>Admin Control page</td>
+     <td>Side Navigation Bar page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/0ac72ec4-c5f9-4977-996c-4c60e7e77f81" width=270 height=480></td>
+    <td><img src="https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/4882d1af-9a7a-46b5-a982-8dc6829f4200" width=270 height=480></td>
+    <td><img src="https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/997ecb62-ed38-4208-b633-922842c0bb83" width=270 height=480></td>
+  </tr>
+    <tr>
+    <td>JOB and Internship page</td>
+     <td>Achievements page</td>
+     <td>Communication page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/671e317b-e60f-4868-a1ae-2ddc30e6ae67" width=270 height=480></td>
+    <td><img src="https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/cc9bb150-1311-4222-9ce1-567a90d00b16" width=270 height=480></td>
+    <td><img src="https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/d3785f4d-cd48-42e2-8cf7-189df738de33" width=270 height=480></td>
+  </tr>
+ </table>
 
 
-![Screenshot_2024-06-14-21-17-06-28_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/4cdb2335-508d-4093-bd52-83c028164db6=1080x1920)
+
+
 
 
