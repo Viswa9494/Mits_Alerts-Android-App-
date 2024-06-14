@@ -62,4 +62,6 @@ For any inquiries or support, please contact us [Viswanath V](mailto:viswanath10
 
 
 
+![Screenshot_2024-06-14-21-17-06-28_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/4cdb2335-508d-4093-bd52-83c028164db6 =1080x1920)
+
 
