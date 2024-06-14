@@ -60,4 +60,24 @@ For any inquiries or support, please contact us [Viswanath V](mailto:viswanath10
 - [Viswanath V](https://github.com/Viswa9494)
 - Rasheed Ahamed M
 
+## Screenshots
+
+
+
+![Screenshot_2024-06-14-21-17-06-28_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/2732702e-5a32-4dbd-bf1d-1556cfbf4eb3)
+
+![Screenshot_2024-06-14-21-17-24-48_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/5975b7fe-eb3c-4132-a35e-b9c87b92217c)
+
+![Screenshot_2024-06-14-21-17-09-42_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/4fed3ac1-0cbc-4f27-96c8-d86409087efc)
+
+
+![Screenshot_2024-06-14-21-17-31-22_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/d2ed834e-1333-4d84-97f9-3d2bacf522cd)
+
+
+![Screenshot_2024-06-14-21-17-45-79_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/a13dcf4d-92a6-46c6-93f7-bb3e4298c765)
+
+
+
+![Screenshot_2024-06-14-21-17-53-02_94069ddaf0384c676ad650a3c8266e9e](https://github.com/Viswa9494/Mits_Alerts-Android-App-/assets/87115305/7b752987-dc15-4fe2-bbc0-96d611622595)
+
 
